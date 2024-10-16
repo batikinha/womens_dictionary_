@@ -1,5 +1,5 @@
-<h1>Sobre:</h1>
-Site criado tanto para desktop quanto para mobile, feito com o objetivo de treinar responsividade e exaltar mulheres negras que contribuíram em suma para a sociedade.
+<h1>About:</h1>
+Site created for both desktop and mobile, made with the aim of training responsiveness and exalting black women who have contributed to society.
 
 <h1>Screenshots:</h1>
 
